@@ -1,0 +1,26 @@
+---
+format: revealjs
+---
+
+## Statistics Experience {.smaller}
+
+::: {.panel-tabset}
+
+### Brief Overview
+
+Last week, on November 6, I attended a seminar titled “Exploring Inclusive Teaching Practices in Introductory Statistics and Data Science,” held by NC State’s Department of Statistics, featuring Maria Tackett from Duke University! In it, she and 2 other researchers explored how 11 different instructors fostered inclusive learning environments in (mostly) introductory statistics and data science courses.
+
+### Reflection
+
+It wasn’t my first time attending a seminar, but it was the first one I understood from start to finish, likely because it applies to everyone, regardless of background or knowledge of statistics; to that extent, the research may have partially fulfilled its goal. I already knew many people dreaded taking a statistics class [to fill a requirement] because it doesn’t seem relevant to them (at least at first), and I found it interesting how other professors approached it: by adding application to their content. For example, if multiple physics majors took ST 311 or ST 371, the instructor might add applied examples of hypothesis tests or regression analysis to engage students. I was also unaware that the 7 principles of universal design were developed here at NC State, so it was also neat to learn that the foundations for accessible design were a creation of the Wolfpack! It’s comforting to know that statisticians are actively seeking ways to make the field I enjoy so much more inclusive in practice.
+
+### ST 115
+
+I feel this trend toward improving statistics pedagogy most in ST 115, in particular. I’ve never coded before, so you can imagine how convoluted the jargon can be; however, I've never felt left behind (especially in a new class that’s never been offered before!).
+
+:::
+
+::: footer
+Jay Agustin
+:::
+
