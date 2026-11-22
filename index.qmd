@@ -23,7 +23,7 @@ Last week, on November 6, I attended a seminar titled “Exploring Inclusive Tea
 ::::
 
 ::: {.column width="30%"}
-![](images/dr-tackett.jpg){fig-align="center" width="300"}
+![](ExtensionDeptNews/images/dr-tackett.jpg){fig-align="center" width="300"}
 :::
 ::::::
 
@@ -49,7 +49,7 @@ To read more about the seminar (and future ones), click [here.](https://statisti
 
 Here is a [link](https://matackett.github.io/SOCQS/ecots22-slides.html) to Dr. Tackett’s past work that may be relevant!
 
-![Visit our department's website!](images/seminars.png){fig-align="center" width="739"}
+![Visit our department's website!](ExtensionDeptNews/images/seminars.png){fig-align="center" width="739"}
 ::::::::::
 
 ::: footer
